@@ -1,4 +1,4 @@
-# enzyme-async-helpers
+# enzyme-async-helpers-react15.4.1
 A library to aid in testing async React components and methods using Enzyme.
 
 ## Installation
@@ -18,7 +18,7 @@ The lib exposes the following methods:
 Wait for an element to appear. You can use any valid Enzyme selector (a component, CSS selector, etc). 
 
 ```javascript
-import { waitForElement } from 'enzyme-async-helpers';
+import { waitForElement } from 'enzyme-async-helpers-react15.4.1';
 ...
 
 it('should wait for MyComponent to appear', async () => {
@@ -35,7 +35,7 @@ it('should wait for MyComponent to appear', async () => {
 Wait for your component's state to update to something.
 
 ```javascript
-import { waitForState } from 'enzyme-async-helpers';
+import { waitForState } from 'enzyme-async-helpers-react15.4.1';
 ...
 
 it('should wait for loading to stop', async () => {
@@ -52,7 +52,7 @@ it('should wait for loading to stop', async () => {
 Wait for your component's props to update to something.
 
 ```javascript
-import { waitForProps } from 'enzyme-async-helpers';
+import { waitForProps } from 'enzyme-async-helpers-react15.4.1';
 ...
 
 it('should wait for someProp to be valid', async () => {
