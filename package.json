@@ -1,6 +1,6 @@
 {
-  "name": "enzyme-async-helper-react",
-  "version": "15.4.2",
+  "name": "enzyme-async-helpers-react15",
+  "version": "0.0.2",
   "author": "Remy ARNAUDIN <remy.arnaudin@wanadoo.fr>",
   "license": "MIT",
   "main": "lib/index.js",
@@ -36,7 +36,7 @@
     "babel-preset-flow": "^6.23.0",
     "babel-preset-react": "^6.24.1",
     "enzyme": "^3.2.0",
-    "enzyme-adapter-react-15.4": "^1.1.0",
+    "enzyme-adapter-react-15.4": "^1.0.5",
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
   },
