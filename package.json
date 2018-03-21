@@ -1,6 +1,6 @@
 {
   "name": "enzyme-async-helpers-react15",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "author": "Remy ARNAUDIN <remy.arnaudin@wanadoo.fr>",
   "license": "MIT",
   "main": "lib/index.js",
@@ -23,11 +23,6 @@
     "jest",
     "testing",
     "tdd"
-  ],
-  "files": [
-    "package.json",
-    "README.md",
-    "LICENSE"
   ],
   "dependencies": {
     "enzyme": "^3.3.0",
