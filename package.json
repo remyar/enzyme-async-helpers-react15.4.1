@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "author": "Remy ARNAUDIN <remy.arnaudin@wanadoo.fr>",
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/remyar/enzyme-async-helpers-react15.4.1"
