@@ -1,6 +1,6 @@
 {
-  "name": "async-enzyme-react1541",
-  "version": "0.0.2",
+  "name": "enzyme-async-helper-react",
+  "version": "15.4.1",
   "author": "Remy ARNAUDIN <remy.arnaudin@wanadoo.fr>",
   "license": "MIT",
   "main": "lib/index.js",
